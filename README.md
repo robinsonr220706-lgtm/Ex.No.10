@@ -2,8 +2,8 @@
 # Content Creation Using Prompt Patterns  
 
 ## Date: 06-09-26
-## Name : ABISHEIK R
-## Reg. No : 212223040005
+## Name : ROBINSON R
+## Reg. No : 2122240218
 
 ---
 
